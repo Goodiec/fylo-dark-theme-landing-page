@@ -129,6 +129,7 @@ nav ul li:hover{
 .testimonial-item{
     background-color: var(--testimonialBg);
     padding: 30px;
+    box-shadow: 5px 5px 8px 5px var(--signupBg);
 }
 .testimonial-item img{
     border-radius: 50%;
@@ -148,7 +149,7 @@ nav ul li:hover{
     z-index: -1;
 }
 #sub-section{
-    background-color: var(--testimonialBg);
+    background-color: var(--signupBg);
     padding: 60px;
     text-align: center;
     width: 60%;
