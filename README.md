@@ -11,8 +11,6 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
 - [My process](#my-process)
   - [Built with](#built-with)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge

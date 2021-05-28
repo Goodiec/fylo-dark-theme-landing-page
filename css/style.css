@@ -169,6 +169,8 @@ input{
 }
 footer{
     background-color: var(--footerBg);
+}
+.footer-upper{
     padding: 100px 60px;
 }
 #footer-logo img{
@@ -194,6 +196,16 @@ footer{
 .social-icons li:hover{
     color: var(--ctoBg);
     border: 1px solid var(--ctoBg);
+}
+.author-info{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.author-info a{
+    color: var(--cto2);
+}
+.author-info a:hover{
+    color: var(--ctoBg);
 }
 
 @media only screen and (max-width: 1123px){
@@ -225,6 +237,9 @@ footer{
     }
 }
 @media only screen and (max-width: 732px){
+    nav {
+        padding: 40px 10px;
+    }
     .test-items{
         display: grid;
         grid-template-columns: auto;

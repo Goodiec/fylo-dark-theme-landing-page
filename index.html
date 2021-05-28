@@ -112,19 +112,21 @@
 
         <section id="sub-section">
             <div>
-                <h2>Get early access today</h2>
-                <p>It only takes a minute to sign up and our free starter tier is extremely generous. If you have any questions, our support team would be happy to help you.</p>
-                <form id="sub-form">
-                    <input type="email" aria-labelledby="sub-form">
-                    <button type="submit">Get Started For Free</button>
-                </form>
+              <h2>Get early access today</h2>
+              <p>It only takes a minute to sign up and our free starter tier is extremely generous. If you have any questions, our support team would be happy to help you.</p>
+              <form id="sub-form">
+                  <input type="email" id="email" aria-labelledby="sub-form">
+                  <button id="sub-btn" type="submit">Get Started For Free</button>
+              </form>
+              <div id="errormsg"></div>
             </div>
         </section>
     </main>
     
     <footer>
+      <div class="footer-upper">
         <div id="footer-logo">
-            <img src="images/logo.svg" alt="logo">
+          <img src="images/logo.svg" alt="logo">
         </div>
 
         <div id="footer-contents">
@@ -163,6 +165,15 @@
                 </ul>
             </div>
         </div>
+      </div>
+
+      <div class="author-info">
+        <p class="attribution">Challenge by
+          <a href="https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd" target="_blank">Frontend Mentor</a>, coded by
+          <a href="https://www.frontendmentor.io/profile/Goodiec"target="_blank">Goodness Chris-Ugari</a>
+        </p>
+      </div>
     </footer>
+    <script src="js/script.js"></script>
 </body>
 </html>
