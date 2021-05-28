@@ -151,7 +151,7 @@ nav ul li:hover{
     background-color: var(--testimonialBg);
     padding: 60px;
     text-align: center;
-    width: 55%;
+    width: 60%;
     margin: 0 auto;
     position: relative;
     z-index: 999;
@@ -237,9 +237,6 @@ footer{
     }
 }
 @media only screen and (max-width: 732px){
-    nav {
-        padding: 40px 10px;
-    }
     .test-items{
         display: grid;
         grid-template-columns: auto;
