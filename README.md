@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot_2021-05-28 Fylo Dark Theme Page](https://user-images.githubusercontent.com/15726413/119991558-7eb02b00-bfc1-11eb-9d5e-499c8f249da8.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-landing-page-using-html-css-grid-flexbox-TzQgkIELN)
+- Live Site URL: [Live site URL](https://goodnex-fylo.netlify.app)
 
 ## My process
 
