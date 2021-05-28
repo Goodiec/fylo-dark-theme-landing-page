@@ -41,6 +41,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://goodiec.hashnode.dev)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Goodiec)
-- Twitter - [@yourusername](https://www.twitter.com/goodnesschris)
+- Website - [Goodness Chris-Ugari](https://goodiec.hashnode.dev)
+- Frontend Mentor - [@Goodiec](https://www.frontendmentor.io/profile/Goodiec)
+- Twitter - [@GoodnessChris](https://www.twitter.com/goodnesschris)
