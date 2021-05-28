@@ -4,8 +4,8 @@
     --footerBg: hsl(216, 53%, 9%);
     --testimonialBg: hsl(219, 30%, 18%);
     --ctoBg: hsl(176, 68%, 64%);
-    --cto2: hsl(198, 60%, 50%);
-    --lRed:hsl(0, 100%, 63%);
+    --cto2: hsl(198, 60%, 50%);    
+    --Light-Red-error: hsl(0, 100%, 63%);
 }
 p{
     font-family: 'Open Sans', sans-serif;
@@ -50,7 +50,7 @@ button{
     border: none;
     color: #fff;
     margin-top: 20px;
-    background-color: var(--ctoBg);
+    background: linear-gradient( to right ,var(--ctoBg) ,var(--cto2));
 }
 #top-logo a img{
     width: 100%;
