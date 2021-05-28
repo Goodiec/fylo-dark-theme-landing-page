@@ -21,8 +21,7 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-
-![Screenshot_2021-05-28 Fylo Dark Theme Page](https://user-images.githubusercontent.com/15726413/119991558-7eb02b00-bfc1-11eb-9d5e-499c8f249da8.png)
+![Screenshot_2021-05-28 Fylo Dark Theme Page](https://user-images.githubusercontent.com/15726413119991558-7eb02b00-bfc1-11eb-9d5e-499c8f249da8.png)
 
 ### Links
 
